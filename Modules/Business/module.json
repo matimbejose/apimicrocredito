@@ -1,0 +1,13 @@
+{
+    "name": "Business",
+    "alias": "business",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Business\\Providers\\BusinessServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

@@ -1,0 +1,17 @@
+{
+    "Customers": true,
+    "Users": false,
+    "Base": true,
+    "Business": true,
+    "Microcredit": false,
+    "CreditTypes": false,
+    "Manager": false,
+    "Managers": true,
+    "Loans": true,
+    "LoansTansactions": false,
+    "LoansTransactions": false,
+    "Warranties": false,
+    "Accounting": true,
+    "Withdrawls": false,
+    "Journals": false
+}
